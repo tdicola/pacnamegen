@@ -18,10 +18,14 @@ Tasks
 The following tasks are exposed through fabric:
 
 - test
+	
 	Executes the python and javascript tests.
 - test_python
+	
 	Executes the python tests.
 - test_js
+	
 	Executes the javascript tests.
 - gen_pac_trigrams
+	
 	Builds the PAC name trigrams JSON file.
